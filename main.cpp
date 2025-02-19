@@ -1,4 +1,7 @@
-def main():
-    print ('hello world')
-if __name__ == '__main__'
-    main()
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout << “Hello World” << endl;
+	exit(0);
+}
